@@ -1,0 +1,3 @@
+La definición del E-Commerce es el subconjunto que esta enfocado en transacciones que incluyen venta y compra online, creación digital de valor, tiendas online, y nuevos canales de distribución.
+
+La definición del M-Commerce es el subconjunto del E-Commerce enfocado en transacciones electrónicas y comunicaciones conducidas al uso de dispositivos móviles como smartphones y tabletas , y comúnmente con conexiones inalámbricas

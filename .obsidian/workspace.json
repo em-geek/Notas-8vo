@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "d89f5cdb138064d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "854de857d9885f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7d68f4bec24e442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seminario de Investigacion/Notas Seminario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6cbd45e1dfd3e66",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a43f3634746430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dab42ff1be12d66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edf90fe57713deba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ddc19ea0c650006",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5d929b7bffe88e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8c4db42ce330f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9995819e24d05f17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Seminario de Investigacion/Notas Seminario.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d798cb950fdb8369",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Seminario de Investigacion/Notas Seminario.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffdf7406319f4e46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d11dbe552cad00be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Seminario de Investigacion/Notas Seminario.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "8dab42ff1be12d66",
+  "lastOpenFiles": [
+    "Notas-8vo",
+    "Negocios/Notas/15-08-24-Negocios.md",
+    "Negocios/Notas/13-08-24-Negocios.md",
+    "Seminario de Investigacion/Notas Seminario.md",
+    "Notas Tesis/Resumen/Terapias_digitales_basadas_en_videojuegos.md",
+    "Notas Tesis/Papers/fpsyt-13-986687.pdf",
+    "Calidad/Notas/13-08-2024-Calidad.md",
+    "Calidad/Índex Calidad.md",
+    "Notas Tesis/Documentos y Enlaces.md",
+    "Negocios/Índex Negocios.md",
+    "Calidad/Notas",
+    "Calidad",
+    "Negocios/Notas",
+    "Negocios",
+    "Terapias.md",
+    "Notas Tesis/Resumen",
+    "Notas Tesis/Sin título.md",
+    "Notas Tesis/Papers",
+    "Seminario de Investigacion/Nueva carpeta",
+    "Notas Tesis",
+    "Seminario de Investigacion"
+  ]
+}
