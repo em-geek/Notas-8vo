@@ -1,2 +1,4 @@
 - [Introducción](13-08-2024-Calidad)
+- [Vistas de Calidad](15-08-2024-Calidad)
+- [Confiabilidad](22-08-2024-Calidad)
 - 

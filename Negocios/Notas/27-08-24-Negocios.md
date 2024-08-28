@@ -1,0 +1,2 @@
+- O2O (Online to Offline y viceversa)
+	- Se trata de un nuevo modelo de negocio en el que los minoristas utilizan los canales online y offline como estrategia intensiva. Mediante el uso de metodos de marketing y publicidad 

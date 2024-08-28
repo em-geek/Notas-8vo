@@ -1,4 +1,4 @@
-Tareas: Cantidad de créditos totales hasta ahora e investigar o proponer un tema que nos gusta y revisar y propones fechas de entrega
++Tareas: Cantidad de créditos totales hasta ahora e investigar o proponer un tema que nos gusta y revisar y propones fechas de entrega
 
 - Definir tema de investigación
 - Versión preliminar del protocolo
@@ -22,4 +22,37 @@ Formas de titularse:
 - Tesis
 - Experiencia Profesional
 	- Tarda dos años
-- 
+
+
+50% Proyecto (Protocolo, RSL)
+30% Ingles
+	- 10 - 500
+	- 9  - 475
+	- 8  - 450
+	- 7  - 425
+20% Tareas
+
+Clave de Moodle: Se24IAD
+
+
+
+Fechas
+
+- Definir tema de investigación
+- Versión preliminar de protocolo
+- Evidencia Avance Ingles
+- Entrega final de protocolo
+- Versión Preliminar RSL
+- Versión Final RSL
+- Entrega final de Ingles
+	- 20 de Noviembre
+
+### TAREA
+Leer los artículos del moodle, el resumen de Hanna y la platica TEDx
+
+5 principios basicos de diseño:
+- Encapsulamiento (Debe de tener acceso quien tiene (Ocultacion))
+- Cohesion (Baja coehison)
+- Acoplamiento (Alto acoplamiento)
+- Modularidad (Debe de tener)
+- Deuda Tecnica

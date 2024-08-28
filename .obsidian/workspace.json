@@ -8,24 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7d68f4bec24e442",
+            "id": "bc368d30f6579229",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calidad/Notas/13-08-2024-Calidad.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "4add8195da1c92ef",
+            "id": "72f4e587717884ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calidad/Notas/15-08-2024-Calidad.md",
+                "file": "Calidad/Notas/27-08-2024-Calidad.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calidad/Notas/15-08-2024-Calidad.md",
+                "file": "Calidad/Notas/27-08-2024-Calidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calidad/Notas/15-08-2024-Calidad.md",
+                "file": "Calidad/Notas/27-08-2024-Calidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calidad/Notas/15-08-2024-Calidad.md"
+                "file": "Calidad/Notas/27-08-2024-Calidad.md"
               }
             }
           }
@@ -159,28 +155,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4add8195da1c92ef",
+  "active": "72f4e587717884ba",
   "lastOpenFiles": [
-    "Calidad/Notas/13-08-2024-Calidad.md",
-    "Calidad/Notas/15-08-2024-Calidad.md",
-    "Negocios/Notas/15-08-24-Negocios.md",
-    "Seminario de Investigacion/Notas Seminario.md",
-    "Notas-8vo",
-    "Negocios/Notas/13-08-24-Negocios.md",
-    "Notas Tesis/Resumen/Terapias_digitales_basadas_en_videojuegos.md",
-    "Notas Tesis/Papers/fpsyt-13-986687.pdf",
+    "Seminario de Investigacion/Notas Clase/19-08-2024-Seminario.md",
+    "Seminario de Investigacion/Documentos y Lecturas/¿Por Que Siempre Me Falta el Tiempo para el Trabajo_.pdf",
+    "Seminario de Investigacion/Tareas/Ladrones_de_tiempo.md",
+    "Calidad/Notas/27-08-2024-Calidad.md",
     "Calidad/Índex Calidad.md",
+    "Seminario de Investigacion/Índex Seminario.md",
+    "Seminario de Investigacion/Tareas/eduardo_briceno_how_to_get_better_at_the_things_you_care_about.md",
+    "Seminario de Investigacion/Notas Clase/Notas_Seminario-Inicio.md",
+    "Calidad/Notas/13-08-2024-Calidad.md",
     "Notas Tesis/Documentos y Enlaces.md",
+    "Seminario de Investigacion/Notas Clase",
     "Negocios/Índex Negocios.md",
+    "Negocios/Notas/27-08-24-Negocios.md",
+    "Negocios/Notas/22-08-24-Negocios.md",
+    "Negocios/Notas/20-08-24-Negocios.md",
+    "Negocios/Notas/15-08-24-Negocios.md",
+    "Calidad/Notas/22-08-2024-Calidad.md",
+    "Calidad/Notas/15-08-2024-Calidad.md",
+    "Negocios/Notas/13-08-24-Negocios.md",
+    "Notas Tesis/Papers/fpsyt-13-986687.pdf",
+    "Notas Tesis/Resumen/Terapias_digitales_basadas_en_videojuegos.md",
+    "Seminario de Investigacion/Tareas",
+    "Seminario de Investigacion/Documentos y Lecturas",
+    "Notas-8vo",
     "Calidad/Notas",
     "Calidad",
     "Negocios/Notas",
     "Negocios",
     "Terapias.md",
-    "Notas Tesis/Resumen",
-    "Notas Tesis/Sin título.md",
-    "Notas Tesis/Papers",
-    "Seminario de Investigacion/Nueva carpeta",
-    "Notas Tesis"
+    "Notas Tesis/Sin título.md"
   ]
 }

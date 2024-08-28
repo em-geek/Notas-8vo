@@ -1,2 +1,6 @@
 - [Introducción](13-08-24-Negocios.md)
+- [Commerce](15-08-24-Negocios.md)
+- [Modelos](20-08-24-Negocios.md)
+- [B2B](22-08-24-Negocios.md)
+- [O2O](27-08-24-Negocios.md)
 - 
