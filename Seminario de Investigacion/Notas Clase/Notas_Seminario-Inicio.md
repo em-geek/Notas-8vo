@@ -56,3 +56,7 @@ Leer los artículos del moodle, el resumen de Hanna y la platica TEDx
 - Acoplamiento (Alto acoplamiento)
 - Modularidad (Debe de tener)
 - Deuda Tecnica
+
+
+Comprensión
+Identificar casos de depresión en niños de 7 a 12 años usando gamificación para elevar niveles de  ansiedad

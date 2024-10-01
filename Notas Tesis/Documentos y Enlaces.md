@@ -14,6 +14,16 @@
 - [Informe anual 2020 UNICEF](https://www.unicef.org/mexico/media/5966/file/Documento%20informe%20anual%202020.pdf)
 	- Estado: Sin Leer
 	- Sin Resumen
+- [Somatización, ansiedad y depresión en niños y adolescentes](https://www.sciencedirect.com/science/article/pii/S0716864020300213)
+	- Estado: Sin Leer
+	- Sin Resumen
+- [# Confinamiento y distanciamiento social: estrés, ansiedad, depresión en niños y adolescentes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10396026/)
+	- Estado: Sin Leer
+	- Sin Resumen
+
+
+
+
 
 
 
