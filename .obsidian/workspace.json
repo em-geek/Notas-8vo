@@ -8,18 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1a6fe01df2da535",
+            "id": "e880274c5dc8a9d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Negocios/Guia Examen Primer Parcial/Guía Examen.md",
+                "file": "Notas Tesis/Redacción Temprana.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Redacción Temprana"
+            }
+          },
+          {
+            "id": "9159f33d0ccec962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Tesis/Terminos de busqueda efectivos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terminos de busqueda efectivos"
+            }
+          },
+          {
+            "id": "9665f6b0712c0aac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Tesis/Documentos y Enlaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Documentos y Enlaces"
+            }
+          },
+          {
+            "id": "b595f9735ff34bda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Negocios/Notas/05-11-24-Negocios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05-11-24-Negocios"
+            }
+          },
+          {
+            "id": "fa2176cfa8cb1f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calidad/Notas/03-09-2024-Calidad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-09-2024-Calidad"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -39,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -48,13 +109,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "modelo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,10 +125,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Negocios/Guia Examen Primer Parcial/Guía Examen.md",
+                "file": "Calidad/Notas/17-10-2024-Calidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +159,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 17-10-2024-Calidad"
             }
           },
           {
@@ -102,10 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Negocios/Guia Examen Primer Parcial/Guía Examen.md",
+                "file": "Calidad/Notas/17-10-2024-Calidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 17-10-2024-Calidad"
             }
           },
           {
@@ -116,7 +186,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Negocios/Guia Examen Primer Parcial/Guía Examen.md"
-              }
+                "file": "Calidad/Notas/17-10-2024-Calidad.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 17-10-2024-Calidad"
             }
           }
         ]
@@ -146,43 +220,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d1a6fe01df2da535",
+  "active": "edf90fe57713deba",
   "lastOpenFiles": [
-    "Negocios/Guia Examen Primer Parcial/Documentos/~$Aviso de Privacidad y Datos Personales.ppt",
-    "Negocios/Guia Examen Primer Parcial/Documentos/~$ParteVI-MarcoLegalNE.ppt",
+    "Calidad/Notas/05-09-2024-Calidad.md",
+    "Calidad/Notas/19-09-2024-Calidad.md",
+    "Calidad/Notas/27-08-2024-Calidad.md",
+    "Calidad/Notas/29-08-2024-Calidad.md",
+    "Calidad/Notas/22-08-2024-Calidad.md",
+    "Calidad/Notas/22-10-2024-Calidad.md",
+    "Calidad/Notas/17-10-2024-Calidad.md",
+    "Calidad/Notas/09-10-2024-Calidad.md",
+    "Calidad/Notas/03-09-2024-Calidad.md",
+    "Notas Tesis/Redacción Temprana.md",
+    "Negocios/Notas/05-11-24-Negocios.md",
+    "Negocios/Notas/31-10-24-Negocios.md",
+    "Negocios/Notas/22-10-24-Negocios.md",
+    "Negocios/Notas/29-08-24-Negocios.md",
+    "Notas Tesis/Terminos de busqueda efectivos.md",
+    "Notas Tesis/Documentos y Enlaces.md",
+    "Negocios/Guia Examen Primer Parcial/Guía Examen.md",
     "Negocios/Guia Examen Primer Parcial/Documentos/~$2.- modulo4comele.ppt",
     "Negocios/Guia Examen Primer Parcial/Documentos/~$1.- e-business-def.ppt",
+    "Negocios/Guia Examen Primer Parcial/Documentos/~$Aviso de Privacidad y Datos Personales.ppt",
+    "Negocios/Guia Examen Primer Parcial/Documentos/~$ParteVI-MarcoLegalNE.ppt",
     "Negocios/Guia Examen Primer Parcial/Documentos/Búsqueda de empleo en Línea 2022 (versión ejecutiva).pdf",
-    "Negocios/Guia Examen Primer Parcial/Guía Examen.md",
     "Negocios/Guia Examen Primer Parcial/Documentos/19 Estudio sobre los Hai-bitos de Usuarios de Internet en Mei-xico 2023 .pptx.pdf",
-    "Notas Tesis/Documentos y Enlaces.md",
-    "Notas Tesis/Redacción Temprana.md",
     "Negocios/Guia Examen Primer Parcial/Documentos/2.- modulo4comele.ppt",
     "Negocios/Guia Examen Primer Parcial/Documentos/ParteVI-MarcoLegalNE.ppt",
     "Negocios/Guia Examen Primer Parcial/Documentos/Hadi_Mohamad_2020_IOP_Conf._Ser.__Mater._Sci._Eng._864_012049.pdf",
     "Negocios/Guia Examen Primer Parcial/Documentos/Aviso de Privacidad y Datos Personales.ppt",
-    "Negocios/Guia Examen Primer Parcial/Documentos/1.- e-business-def.ppt",
     "Negocios/Notas/26-09-24-Negocios.md",
-    "Calidad/Notas/03-09-2024-Calidad.md",
-    "Calidad/Notas/05-09-2024-Calidad.md",
     "Calidad/Notas/13-08-2024-Calidad.md",
     "Calidad/Notas/15-08-2024-Calidad.md",
-    "Calidad/Notas/19-09-2024-Calidad.md",
-    "Calidad/Notas/22-08-2024-Calidad.md",
-    "Calidad/Notas/27-08-2024-Calidad.md",
-    "Calidad/Notas/29-08-2024-Calidad.md",
     "Negocios/Notas/24-09-24-Negocios.md",
     "Negocios/Notas/03-09-24-Negocios.md",
     "Negocios/Notas/19-09-24-Negocios.md",
     "Seminario de Investigacion/Notas Clase/Notas_Seminario-Inicio.md",
     "Seminario de Investigacion/Notas Clase/02-09-2024-Seminario.md",
-    "Seminario de Investigacion/Notas Clase/19-08-2024-Seminario.md",
-    "Negocios/Notas/10-09-24-Negocios.md",
-    "Seminario de Investigacion/Tareas/Guía para realizar revisiones sistemáticas de literatura (Systematic Literature Reviews) en ingeniería de software.md",
-    "Seminario de Investigacion/Índex Seminario.md",
-    "Negocios/Notas/29-08-24-Negocios.md",
-    "Calidad/Índex Calidad.md",
-    "Seminario de Investigacion/Tareas/Ladrones_de_tiempo.md",
-    "Seminario de Investigacion/Tareas/eduardo_briceno_how_to_get_better_at_the_things_you_care_about.md"
+    "Seminario de Investigacion/Notas Clase/19-08-2024-Seminario.md"
   ]
 }

@@ -1,0 +1,4 @@
+- Assistance in the detection of depression in children from 7 to 13 years old.
+- Depression screening in children from 7 to 13 years old.
+- Depression in children from 7 to 13 years old
+- Depresion de niños de 7 a 13 años en Mexico

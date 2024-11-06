@@ -20,6 +20,15 @@
 - [# Confinamiento y distanciamiento social: estrés, ansiedad, depresión en niños y adolescentes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10396026/)
 	- Estado: Sin Leer
 	- Sin Resumen
+- [# Accuracy of Depression Screening Tools to Detect Major Depression in Children and Adolescents: A Systematic Review](https://journals.sagepub.com/doi/epub/10.1177/0706743716651833)
+	- Estado: Sin Leer
+	- Sin Resumen
+- [Depresión y factores asociados en niños y adolescentes de 7 a 14 años de edad](https://www.medigraphic.com/pdfs/atefam/af-2020/af201f.pdf)
+	- Estado: Sin Leer
+	- Sin Resumen
+
+
+
 
 
 
