@@ -194,9 +194,19 @@
   },
   "active": "b207c864035a4be3",
   "lastOpenFiles": [
+    "Testing/Proyectos/Calculadora/__pycache__/calculadora.cpython-312.pyc",
+    "Testing/Proyectos/pruebas_doctest/__pycache__/calculadora.cpython-312.pyc",
+    "Testing/Proyectos/Calculadora/__pycache__",
+    "Testing/Proyectos/pruebas_doctest/__pycache__",
+    "Testing/Proyectos/Calculadora/test_calculadora.txt",
+    "Testing/Proyectos/Calculadora/calculadora.py",
+    "Testing/Proyectos/pruebas_doctest",
+    "Testing/Proyectos/Calculadora",
+    "Testing/Proyectos",
+    "Testing/Testing/pruebas_doctest/__pycache__/calculadora.cpython-312.pyc",
+    "Testing/Testing/Calculadora/__pycache__/calculadora.cpython-312.pyc",
     "Testing/Introducción a Testing.md",
     "Testing/V.md",
-    "Testing",
     "Notas Tesis/Terminos de busqueda efectivos.md",
     "Notas Tesis/Paginas de busqueda.md",
     "Notas Tesis/Redacción Temprana.md",
@@ -219,16 +229,6 @@
     "Negocios/Notas/31-10-24-Negocios.md",
     "Negocios/Notas/22-10-24-Negocios.md",
     "Negocios/Notas/29-08-24-Negocios.md",
-    "Negocios/Guia Examen Primer Parcial/Guía Examen.md",
-    "Negocios/Guia Examen Primer Parcial/Documentos/~$2.- modulo4comele.ppt",
-    "Negocios/Guia Examen Primer Parcial/Documentos/~$1.- e-business-def.ppt",
-    "Negocios/Guia Examen Primer Parcial/Documentos/~$Aviso de Privacidad y Datos Personales.ppt",
-    "Negocios/Guia Examen Primer Parcial/Documentos/~$ParteVI-MarcoLegalNE.ppt",
-    "Negocios/Guia Examen Primer Parcial/Documentos/Búsqueda de empleo en Línea 2022 (versión ejecutiva).pdf",
-    "Negocios/Guia Examen Primer Parcial/Documentos/19 Estudio sobre los Hai-bitos de Usuarios de Internet en Mei-xico 2023 .pptx.pdf",
-    "Negocios/Guia Examen Primer Parcial/Documentos/2.- modulo4comele.ppt",
-    "Negocios/Guia Examen Primer Parcial/Documentos/ParteVI-MarcoLegalNE.ppt",
-    "Negocios/Guia Examen Primer Parcial/Documentos/Hadi_Mohamad_2020_IOP_Conf._Ser.__Mater._Sci._Eng._864_012049.pdf",
-    "Calidad/Notas/13-08-2024-Calidad.md"
+    "Negocios/Guia Examen Primer Parcial/Guía Examen.md"
   ]
 }

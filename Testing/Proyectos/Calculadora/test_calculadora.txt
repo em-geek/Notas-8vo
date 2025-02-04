@@ -1,0 +1,121 @@
+>>> from calculadora import Calculadora
+>>> calc = Calculadora()
+
+# Pruebas para sumar
+>>> calc.sumar(2, 2)
+4
+
+>>> calc.sumar(3, 2)
+5
+
+>>> calc.sumar('X', 2)
+'Solo se pueden sumar numeros'
+
+>>> calc.sumar(2, 'X')
+'Solo se pueden sumar numeros'
+
+>>> calc.sumar(-2, 2)
+'Solo se puede sumar numeros positivos y el cero'
+
+>>> calc.sumar(4.5, 2)
+'Solo se puede sumar numeros enteros'
+
+>>> calc.sumar(0, 5)
+5
+
+>>> calc.sumar(0, 0)
+0
+
+>>> calc.sumar(1000, 2000)
+3000
+
+# Pruebas para restar
+>>> calc.restar(5, 3)
+2
+
+>>> calc.restar(10, 0)
+10
+
+>>> calc.restar(0, 0)
+0
+
+>>> calc.restar(2, -2)
+'Solo se puede restar numeros positivos y el cero'
+
+>>> calc.restar('X', 2)
+'Solo se pueden restar numeros'
+
+>>> calc.restar(4.5, 2)
+'Solo se puede restar numeros enteros'
+
+>>> calc.restar(3, 5)
+-2
+
+>>> calc.restar(1, 1)
+0
+
+>>> calc.restar(9999, 8888)
+1111
+
+# Pruebas para multiplicar
+>>> calc.multiplicar(3, 3)
+9
+
+>>> calc.multiplicar(2, 0)
+0
+
+>>> calc.multiplicar(5, 1)
+5
+
+>>> calc.multiplicar(-1, 2)
+'Solo se puede multiplicar numeros positivos y el cero'
+
+>>> calc.multiplicar(3.5, 2)
+'Solo se puede multiplicar numeros enteros'
+
+>>> calc.multiplicar('X', 2)
+'Solo se pueden multiplicar numeros'
+
+>>> calc.multiplicar(1, 1000)
+1000
+
+>>> calc.multiplicar(100, 100)
+10000
+
+>>> calc.multiplicar(0, 999)
+0
+
+# Pruebas para dividir
+>>> calc.dividir(10, 2)
+5.0
+
+>>> calc.dividir(9, 3)
+3.0
+
+>>> calc.dividir(5, 5)
+1.0
+
+>>> calc.dividir(10, 0)
+'Solo se puede dividir positivos'
+
+>>> calc.dividir(0, 10)
+'Solo se puede dividir positivos'
+
+>>> calc.dividir('X', 2)
+'Solo se pueden dividir numeros'
+
+>>> calc.dividir(3.5, 2)
+'Solo se puede dividir numeros enteros'
+
+>>> calc.dividir(1, 1)
+1.0
+
+>>> calc.dividir(100, 10)
+10.0
+
+>>> calc.dividir(7, 2)
+3.5
+
+>>> calc.dividir(1000, 5)
+200.0
+
