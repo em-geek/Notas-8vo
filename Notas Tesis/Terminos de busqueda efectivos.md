@@ -2,3 +2,25 @@
 - Depression screening in children from 7 to 13 years old.
 - Depression in children from 7 to 13 years old
 - Depresion de niños de 7 a 13 años en Mexico
+- Challenges in diagnosis depression in children aged 7 to 13
+- Screening tools for detectung depression in children
+- Tools for detecting depression in children
+- gamification for depression detection in children
+- herramientas de detección de depresión infantil
+- gamificación en psicología
+- videojuegos en entornos terapéuticos
+- videojuegos y tratamiento de trastornos psicológicos
+- serious games en psiquiatría infantil
+- juegos serios en terapia infantil
+- videojuegos y prevención de trastornos en niños
+- eficacia de videojuegos comerciales en psiquiatría infantil
+- gamification in psychology
+- video games in therapeutic settings
+- depression detection in children aged 7-12
+- tools for detecting childhood depression
+- video games and psychological disorder treatment
+- behavior patterns in children aged 7-12
+- serious games in child psychiatry
+- serious games in child therapy
+- video games and prevention of disorders in children
+- effectiveness of commercial video games in child psychiatry
