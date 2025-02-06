@@ -1,0 +1,42 @@
+Dada la edad, envíar los siguientes mensajes:
+Si es menor de 0: No existes
+Si es menor de 13: Eres niño
+Si es menor de 18: Eres adolescente
+Si es menor de 65: Eres adulto
+Si es menor de 120: Eres adulto mayor
+De lo contrario: Eres Mumm-Raead
+
+>>> from edades import edades
+
+>>> edades(-1)
+'No existes'
+
+>>> edades(3)
+'Eres niño'
+
+>>> edades(13)
+'Eres adolescente'
+
+>>> edades(16)
+'Eres adolescente'
+
+>>> edades(20)
+'Eres adulto'
+
+>>> edades(80)
+'Eres adulto mayor'
+
+>>> edades(100)
+'Eres adulto mayor'
+
+>>> edades(200)
+'Eres Mumm-Raead'
+
+>>> edades('X')
+'Eres Chabelo'
+
+>>> edades(19.2)
+'Los meses no cuentan'
+
+>>> edades(0)
+'No existes'
