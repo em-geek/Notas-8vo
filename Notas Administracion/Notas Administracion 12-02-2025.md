@@ -1,0 +1,8 @@
+- Las primeras preguntas de la problematica no se preguntan por funciones, si no por la misma problematica, se tienen que buscar funciones
+- Buscar sobre presupuestos es siempre un buena idea
+- La idea al inicio es sacar los requerimientos de negocio, de uno a 3 o 4
+- Modulos, epicas e historias
+- Aprender a decir que no, conocer sus limites
+- La idea es llevar lluvia de ideas para el proyecto
+- Conocer el proyecto antes que nada va a ser de vital importancia para tener contexto y poder formular preguntas
+- La primer pregunta seria sobre la necesidad

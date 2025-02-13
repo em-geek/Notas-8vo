@@ -12,10 +12,10 @@ La fecha sea mayor a 1800
 
 La fecha sea la fecha actual
 
->>> from years import years
+>>> from years import convertir_fecha
 
 >>> convertir_fecha('21/11/1780')
-'La fecha debe de ser despues de 1800'
+'Fecha invalida, el año no debe ser menor a 1800.'
 
 >>> convertir_fecha('21/13/1980')
 'El mes proporcionado no existe'
@@ -24,7 +24,7 @@ La fecha sea la fecha actual
 'El dia proporcionado no existe'
 
 >>> convertir_fecha('24/06/2025')
-'La fecha excede a la actual'
+'La fecha debe de estar dentro del rango desde 1800 hasta la fecha actual'
 
 >>> convertir_fecha('29/022/2024')
 'El mes proporcionado no existe'
@@ -36,7 +36,7 @@ La fecha sea la fecha actual
 'El formato proporcionado no se detecta como una fecha DD/MM/AAAA'
 
 >>> convertir_fecha('00/00/0000')
-'fecha no válida'
+'Fecha invalida, el año no debe ser menor a 1800.'
 
 >>> convertir_fecha('XX/01/2025')
 'El dia, mes y año debe estar escrito en numero'
