@@ -1,1 +1,0 @@
-tarea hacer una presentación individual acerca de los artículos sobre pair programming que el profe subió a moodle.

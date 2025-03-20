@@ -3,8 +3,9 @@
 Trabajo realizado por José Emmanuel Sandoval Sanchez y Joel Salas Moreno
 '''
 
+
 def minutos_de_la_semana(semanas):
-    """ 
+    """
 
     >>> minutos_de_la_semana(1)
     10080
@@ -24,10 +25,8 @@ def obtener_residuo_sin_mod(numerador, divisor):
     """
     num = numerador
     while (num >= divisor):
-       num = num - divisor
+        num = num - divisor
     return num
-
-
 
 
 def divisible_entre_3(numero):
@@ -38,11 +37,10 @@ def divisible_entre_3(numero):
     False
     """
     num = numero/3
-    if (num.is_integer() == True):
+    if (num.is_integer()):
         return True
     else:
-        return False 
-
+        return False
 
 
 def cuadrado_de_un_conjunto(numeros):
@@ -52,7 +50,6 @@ def cuadrado_de_un_conjunto(numeros):
     {1, 4, 9, 16, 25}
     """
     return {x ** 2 for x in numeros}
-
 
 
 def potencia_de_2_en_conjunto(numeros):
@@ -71,8 +68,9 @@ def producto_de_dos_conjuntos(xs, ys):
     resultado = set()
     for x in xs:
         for y in ys:
-            resultado.add(x * y) 
-    return resultado  
+            resultado.add(x * y)
+    return resultado
+
 
 def producto_de_conjuntos_sin_duplicados(xs, ys):
     """
@@ -82,8 +80,9 @@ def producto_de_conjuntos_sin_duplicados(xs, ys):
     resultado = set()
     for x in xs:
         for y in ys:
-            resultado.add(x * y) 
+            resultado.add(x * y)
     return resultado
+
 
 def interseccion(Ss, Ts):
     """
@@ -95,6 +94,7 @@ def interseccion(Ss, Ts):
         if elemento in Ts:  # Si el elemento está en ambos conjuntos
             resultado.add(elemento)
     return resultado
+
 
 def promedio_de_lista(lista):
     """

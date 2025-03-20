@@ -1,0 +1,57 @@
+
+
+Diseñar casos de prueba para el siguiente requerimiento:
+
+Se require convertir una fecha a texto:
+Entrada: 21/11/1980
+Salida: Veintiuno de noviembre de mil novecientos ochenta.
+
+Validar años bisiestos
+    Como se cuando son años bisiestos?
+La fecha sea mayor a 1800
+
+La fecha sea la fecha actual
+
+>>> from years import convertir_fecha
+
+>>> convertir_fecha('21/11/1780')
+'Fecha invalida, el año no debe ser menor a 1800.'
+
+>>> convertir_fecha('21/13/1980')
+'El mes proporcionado no existe'
+
+>>> convertir_fecha('29/02/2023')
+'El dia proporcionado no existe'
+
+>>> convertir_fecha('24/06/2025')
+'La fecha debe de estar dentro del rango desde 1800 hasta la fecha actual'
+
+>>> convertir_fecha('29/022/2024')
+'El mes proporcionado no existe'
+
+>>> convertir_fecha('HOLA')
+'El formato proporcionado no se detecta como una fecha DD/MM/AAAA'
+
+>>> convertir_fecha('01-02-2021')
+'El formato proporcionado no se detecta como una fecha DD/MM/AAAA'
+
+>>> convertir_fecha('00/00/0000')
+'Fecha invalida, el año no debe ser menor a 1800.'
+
+>>> convertir_fecha('XX/01/2025')
+'El dia, mes y año debe estar escrito en numero'
+
+>>> convertir_fecha('')
+'La entrada no debe de estar vacia'
+
+>>> convertir_fecha('10/03/2025')
+'La fecha debe de estar dentro del rango desde 1800 hasta la fecha actual'
+
+>>> convertir_fecha('01/01/1750')
+'Fecha invalida, el año no debe ser menor a 1800.'
+
+>>> convertir_fecha('21/11/1980')
+'Veintiuno de noviembre de mil novecientos ochenta'
+
+>>> convertir_fecha('29/02/2024')
+'Veintinueve de febrero de dos mil veinticuatro'

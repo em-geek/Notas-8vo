@@ -8,63 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b018fffa90626947",
+            "id": "cf0f9ca9811e4453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Introducción a Testing.md",
+                "file": "Seminario de Investigacion/Notas Clase/19-08-2024-Seminario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introducción a Testing"
+              "title": "19-08-2024-Seminario"
             }
           },
           {
-            "id": "5dd027a1721a2222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/V.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "V"
-            }
-          },
-          {
-            "id": "b207c864035a4be3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Clase Nosecuando.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase Nosecuando"
-            }
-          },
-          {
-            "id": "85de8b7a6a92c2dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Seminario de Investigacion/Notas Clase/Notas_Seminario-Inicio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notas_Seminario-Inicio"
-            }
-          },
-          {
-            "id": "60b4a3f8b6081094",
+            "id": "53e500e0221136a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,35 +36,21 @@
             }
           },
           {
-            "id": "c5083ceb0103528d",
+            "id": "df4d4a6833fd6229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Administracion/Notas Administracion 10-02-2025.md",
+                "file": "Notas Administracion/Notas Administracion 19-03-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas Administracion 10-02-2025"
-            }
-          },
-          {
-            "id": "16920de7d918e5cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Administracion/Notas Administracion 12-02-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notas Administracion 12-02-2025"
+              "title": "Notas Administracion 19-03-2025"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,12 +192,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "16920de7d918e5cf",
+  "active": "53e500e0221136a0",
   "lastOpenFiles": [
-    "Notas Administracion/Notas Administracion 10-02-2025.md",
     "Notas Administracion/Notas Administracion 12-02-2025.md",
+    "Notas Administracion/Notas Administracion 19-03-2025.md",
+    "Notas Administracion/Notas Administracion 10-02-2025.md",
     "Notas Administracion/Notas Administracion 05-02-2025.md",
     "Seminario de Investigacion/Notas Clase/Notas_Seminario-Inicio.md",
+    "Seminario de Investigacion/Notas Clase/19-08-2024-Seminario.md",
+    "Seminario de Investigacion/Notas Clase/02-09-2024-Seminario.md",
+    "Notas Tesis/Notas Godot/Tutoriales.md",
+    "Testing/Introducción a Testing.md",
+    "Testing/Clase Nosecuando.md",
+    "Notas Tesis/Notas Godot",
+    "Testing/Sin título.md",
+    "Testing/Proyectos/Pruebas Unitarias/GestorTareas/Test_GestorTareas.py",
+    "Testing/Proyectos/Pruebas Unitarias/GestorTareas/GestorTareas.py",
+    "Testing/Proyectos/Pruebas Unitarias/GestorTareas",
     "Notas Administracion",
     "Seminario de Investigacion/Tareas/Ladrones_de_tiempo.md",
     "Seminario de Investigacion/Tareas/Tema de investigación.pdf",
@@ -262,17 +217,10 @@
     "Notas Tesis/Paginas de busqueda.md",
     "Notas Tesis/Redacción Temprana.md",
     "Notas Tesis/Terminos de busqueda efectivos.md",
-    "Testing/Sin título.md",
     "Testing/Proyectos/Ejercicio1/__pycache__/ejericios_python1.cpython-312.pyc",
     "Testing/Proyectos/Ejercicio1/__pycache__",
     "Testing/Proyectos/Ejercicio1/ejericios_python1.py",
     "Testing/Proyectos/Ejercicio1",
-    "Testing/Proyectos/Nueva carpeta",
-    "Testing/Proyectos/edades.zip",
-    "Testing/Proyectos/edades/__pycache__/edades.cpython-312.pyc",
-    "Testing/Proyectos/edades/__pycache__",
-    "Testing/Clase Nosecuando.md",
-    "Testing/Introducción a Testing.md",
     "Negocios/Notas/26-09-24-Negocios.md",
     "Negocios/Notas/24-09-24-Negocios.md",
     "Negocios/Notas/14-11-24-Negocios.md",
@@ -281,10 +229,6 @@
     "Negocios/Notas/05-11-24-Negocios.md",
     "Calidad/Notas/05-09-2024-Calidad.md",
     "Calidad/Notas/19-09-2024-Calidad.md",
-    "Calidad/Notas/27-08-2024-Calidad.md",
-    "Calidad/Notas/29-08-2024-Calidad.md",
-    "Calidad/Notas/22-08-2024-Calidad.md",
-    "Calidad/Notas/22-10-2024-Calidad.md",
-    "Calidad/Notas/17-10-2024-Calidad.md"
+    "Calidad/Notas/27-08-2024-Calidad.md"
   ]
 }

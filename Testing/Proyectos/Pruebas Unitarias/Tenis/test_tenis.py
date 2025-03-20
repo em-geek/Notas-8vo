@@ -1,6 +1,7 @@
 import unittest
 from tenis import JuegoTenis
 
+
 class TestJuegoTenis(unittest.TestCase):
 
     def setUp(self):
@@ -37,12 +38,29 @@ class TestJuegoTenis(unittest.TestCase):
         self.juego.anotar_punto("Jugador1")
         self.assertEqual(self.juego.obtener_puntaje(), "Ventaja Jugador1")
 
-    def test_ganador(self):
+    def test_ventaja2(self):
+        self.juego.anotar_punto("Jugador2")
+        self.juego.anotar_punto("Jugador2")
+        self.juego.anotar_punto("Jugador2")
+        self.juego.anotar_punto("Jugador1")
+        self.juego.anotar_punto("Jugador1")
+        self.juego.anotar_punto("Jugador1")
+        self.juego.anotar_punto("Jugador2")
+        self.assertEqual(self.juego.obtener_puntaje(), "Ventaja Jugador2")
+
+    def test_ganador1(self):
         self.juego.anotar_punto("Jugador1")
         self.juego.anotar_punto("Jugador1")
         self.juego.anotar_punto("Jugador1")
         self.juego.anotar_punto("Jugador1")
         self.assertEqual(self.juego.obtener_puntaje(), "Gana Jugador1")
+
+    def test_ganador2(self):
+        self.juego.anotar_punto("Jugador2")
+        self.juego.anotar_punto("Jugador2")
+        self.juego.anotar_punto("Jugador2")
+        self.juego.anotar_punto("Jugador2")
+        self.assertEqual(self.juego.obtener_puntaje(), "Gana Jugador2")
 
     def test_gana_despues_de_ventaja(self):
         self.juego.anotar_punto("Jugador1")
@@ -54,6 +72,17 @@ class TestJuegoTenis(unittest.TestCase):
         self.juego.anotar_punto("Jugador1")  # Ventaja Jugador1
         self.juego.anotar_punto("Jugador1")  # Gana Jugador1
         self.assertEqual(self.juego.obtener_puntaje(), "Gana Jugador1")
+
+    def test_gana_despues_de_ventaja2(self):
+        self.juego.anotar_punto("Jugador2")
+        self.juego.anotar_punto("Jugador2")
+        self.juego.anotar_punto("Jugador2")
+        self.juego.anotar_punto("Jugador1")
+        self.juego.anotar_punto("Jugador1")
+        self.juego.anotar_punto("Jugador1")
+        self.juego.anotar_punto("Jugador2")  # Ventaja Jugador2
+        self.juego.anotar_punto("Jugador2")  # Gana Jugador2
+        self.assertEqual(self.juego.obtener_puntaje(), "Gana Jugador2")
 
     def test_ventaja_y_deuce(self):
         self.juego.anotar_punto("Jugador1")
@@ -93,7 +122,7 @@ class TestJuegoTenis(unittest.TestCase):
         self.juego.anotar_punto("Jugador2")
         self.juego.anotar_punto("Jugador2")
         self.juego.anotar_punto("Jugador2")  # Deuce
-        
+
         self.juego.anotar_punto("Jugador1")  # Ventaja Jugador1
         self.juego.anotar_punto("Jugador2")  # Deuce
         self.juego.anotar_punto("Jugador2")  # Ventaja Jugador2
@@ -110,7 +139,7 @@ class TestJuegoTenis(unittest.TestCase):
         self.juego.anotar_punto("Jugador2")
         self.juego.anotar_punto("Jugador2")
         self.juego.anotar_punto("Jugador2")  # Deuce
-        
+
         self.juego.anotar_punto("Jugador1")  # Ventaja Jugador1
         self.juego.anotar_punto("Jugador1")  # Gana Jugador1
 

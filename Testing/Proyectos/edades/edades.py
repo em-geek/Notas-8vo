@@ -13,5 +13,5 @@ def edades(edad):
         return 'Eres adulto'
     elif (edad < 120):
         return 'Eres adulto mayor'
-    else: 
+    else:
         return 'Eres Mumm-Raead'
