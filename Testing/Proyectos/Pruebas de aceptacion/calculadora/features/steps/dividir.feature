@@ -6,17 +6,17 @@ Característica: Dividir dos números
     Escenario: Dividir 10 entre 2
         Dado que ingreso el número "10" y el número "2"
         Cuando realizo la operación de división
-        Entonces puedo ver el resultado "5.0"
+        Entonces puedo ver el resultado "5.0" en division
 
     Escenario: Dividir 9 entre 3
         Dado que ingreso el número "9" y el número "3"
         Cuando realizo la operación de división
-        Entonces puedo ver el resultado "3.0"
+        Entonces puedo ver el resultado "3.0" en division
 
     Escenario: Dividir 5 entre 5
         Dado que ingreso el número "5" y el número "5"
         Cuando realizo la operación de división
-        Entonces puedo ver el resultado "1.0"
+        Entonces puedo ver el resultado "1.0" en division
 
     Escenario: Dividir 10 entre 0
         Dado que ingreso el número "10" y el número "0"
@@ -34,26 +34,26 @@ Característica: Dividir dos números
         Entonces puedo ver el mensaje "Solo se pueden dividir numeros"
 
     Escenario: Dividir número flotante y número
-        Dado que ingreso el número "3.5" y el número "2"
+        Dado que ingreso el flotante "3.5" y el número "2"
         Cuando realizo la operación de división
         Entonces puedo ver el mensaje "Solo se puede dividir numeros enteros"
 
     Escenario: Dividir 1 entre 1
         Dado que ingreso el número "1" y el número "1"
         Cuando realizo la operación de división
-        Entonces puedo ver el resultado "1.0"
+        Entonces puedo ver el resultado "1.0" en division
 
     Escenario: Dividir 100 entre 10
         Dado que ingreso el número "100" y el número "10"
         Cuando realizo la operación de división
-        Entonces puedo ver el resultado "10.0"
+        Entonces puedo ver el resultado "10.0" en division
 
     Escenario: Dividir 7 entre 2
         Dado que ingreso el número "7" y el número "2"
         Cuando realizo la operación de división
-        Entonces puedo ver el resultado "3.5"
+        Entonces puedo ver el resultado "3.5" en division
 
     Escenario: Dividir 1000 entre 5
         Dado que ingreso el número "1000" y el número "5"
         Cuando realizo la operación de división
-        Entonces puedo ver el resultado "200.0"
+        Entonces puedo ver el resultado "200.0" en division

@@ -29,7 +29,7 @@ Característica: Restar dos números
         Entonces puedo ver el mensaje "Solo se pueden restar numeros"
 
     Escenario: Restar flotante y número
-        Dado que ingreso el número "4.5" y el número "2"
+        Dado que ingreso el flotante "4.5" y el número "2"
         Cuando realizo la operación de resta
         Entonces puedo ver el mensaje "Solo se puede restar numeros enteros"
 

@@ -24,7 +24,7 @@ Característica: Multiplicar dos números
         Entonces puedo ver el mensaje "Solo se puede multiplicar numeros positivos y el cero"
 
     Escenario: Multiplicar número flotante y número
-        Dado que ingreso el número "3.5" y el número "2"
+        Dado que ingreso el flotante "3.5" y el número "2"
         Cuando realizo la operación de multiplicación
         Entonces puedo ver el mensaje "Solo se puede multiplicar numeros enteros"
 
