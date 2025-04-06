@@ -42,3 +42,4 @@ def step_impl(context, unidad):
         unidades.append(td[0].text)
     assert unidad in unidades, \
         f"La unidad {unidad} no se encuentra en las unidades {str(unidades)}"
+    context.driver.quit() 
